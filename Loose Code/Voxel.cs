@@ -9,7 +9,7 @@ public class Voxel : MonoBehaviour {
 
 	private GameObject myVoxel;
 	public VoxelType voxelType;
-    public Material voxelMaterial;
+	public Material voxelMaterial;
 	public Vector3 position;
 	public bool breakable = false;
 	public int blockHealth = 50;
@@ -37,10 +37,8 @@ public class Voxel : MonoBehaviour {
 		}
 		myVoxel.GetComponent<Renderer>().material = voxelMaterial;
 		myVoxel.transform.position = position;
-
 	}
 		
 	void Update() {
 	}
-
 }
