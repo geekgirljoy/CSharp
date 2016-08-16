@@ -7,7 +7,7 @@ Essentially this repository is an ever growing backup of all my public C#. It re
 
 
 ##Loose Code
-This folder contains stand alone code. Each does domething different and is here because I want a backup of this code for any number of reasons.                                
+This folder contains stand alone code. Each does something different and is here because I want a backup of this code for any number of reasons.                                
 ######[Voxel.cs](Loose Code/Voxel.cs)
 
 
