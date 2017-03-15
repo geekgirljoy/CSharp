@@ -10,7 +10,7 @@ Essentially this repository is an ever growing backup of all my public C#. It re
 
 ## Loose Code
 This folder contains stand alone code. Each does something different and is here because I want a backup of this code for any number of reasons.                                
-###### [Voxel.cs](Loose Code/Voxel.cs)
+###### [Voxel.cs](https://github.com/geekgirljoy/CSharp/blob/master/Loose%20Code/Voxel.cs)
 
 
 All of this code is subject to minor alterations, complete rewrites, even removal.
